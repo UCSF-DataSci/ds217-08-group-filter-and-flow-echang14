@@ -1,3 +1,4 @@
+Assignment 8
               facility_name provider_id    provider_name  years_experience          specialty  encounter_count
 Cardiology Specialty Center      PR0447      Avery Smith                21          Neurology                4
 Cardiology Specialty Center      PR0093      Avery Smith                16         Pediatrics                4
